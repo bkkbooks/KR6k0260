@@ -1,0 +1,362 @@
+canonical_identifier: bkk:krp/KR6k0260/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0260/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 律學發軔
+  identifiers:
+    krp: KR6k0260
+    cbeta: X60n1125
+    cbeta_old_id: X60n1125
+    authorityid: CA0002133
+    json_key: X1125
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X60/X60n1125.xml
+    old_id: X60n1125
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0260_000-X.yaml, hash: 'sha256:a9d14389675b954dcd039a42197e41e34b3e0a120a03f66cd718cb6b3d07d1ab'}
+  - {seq: 1, filename: KR6k0260_001-X.yaml, hash: 'sha256:5fb6842968fd22c748df51c91e4ccb0a10c43c8c301aeaedd4d297a757eb8776'}
+  - {seq: 2, filename: KR6k0260_002-X.yaml, hash: 'sha256:968d45e9c42513abb81d90334b13e294ec049f6101566ac89e7e67a1b74e1c16'}
+  - {seq: 3, filename: KR6k0260_003-X.yaml, hash: 'sha256:61eb92e3bb1e8c17ff469b238dbb3162f63823cf0df0bfa0e493681845e8a31f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0260_000-X.markers.yaml, hash: 'sha256:93880a3a8f2c31faf05061a6d54ce74e38df6cf5c890b359248d1e94ba286843'}
+  - {seq: 1, role: markers, filename: assets/KR6k0260_001-X.markers.yaml, hash: 'sha256:be87b3b4a0c6e69bc7f49650d210e93c788e0334307343e217e158bb1265edfd'}
+  - {seq: 2, role: markers, filename: assets/KR6k0260_002-X.markers.yaml, hash: 'sha256:5edf9ad89bdc722554e76d17bf5fa4353292c5fa5b0f2994598d7a0ca6e4e188'}
+  - {seq: 3, role: markers, filename: assets/KR6k0260_003-X.markers.yaml, hash: 'sha256:fbb1362bb2a5ada4d56b82a9473e0bed86dd7652e489f4011632f9dd74464b06'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0260_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1125-A 律學發軔序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0260_X_000-mulu-2
+    span:
+    - front
+    - 243
+    - 243
+  label: 律學發軔目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0260_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 9050
+  label: 律學發軔卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0260_X_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 律部緣起
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0260_X_001-mulu-2
+    span:
+    - body
+    - 1653
+    - 1653
+  label: 三皈依
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0260_X_001-mulu-3
+    span:
+    - body
+    - 2803
+    - 2803
+  label: 五戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0260_X_001-mulu-4
+    span:
+    - body
+    - 3648
+    - 3648
+  label: 八關齋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0260_X_001-mulu-5
+    span:
+    - body
+    - 4071
+    - 4071
+  label: 優婆塞戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0260_X_001-mulu-6
+    span:
+    - body
+    - 4793
+    - 4793
+  label: 沙彌戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0260_X_001-mulu-7
+    span:
+    - body
+    - 5747
+    - 5747
+  label: 式叉摩那戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0260_X_001-mulu-8
+    span:
+    - body
+    - 5918
+    - 5918
+  label: 比丘戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0260_X_001-mulu-9
+    span:
+    - body
+    - 6646
+    - 6646
+  label: 比丘尼戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0260_X_001-mulu-10
+    span:
+    - body
+    - 7370
+    - 7370
+  label: 菩薩戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0260_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 7706
+  label: 律學發軔卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0260_X_002-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 結界
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0260_X_002-mulu-2
+    span:
+    - body
+    - 768
+    - 768
+  label: 布薩
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0260_X_002-mulu-3
+    span:
+    - body
+    - 1669
+    - 1669
+  label: 說欲
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0260_X_002-mulu-4
+    span:
+    - body
+    - 2050
+    - 2050
+  label: 安居
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0260_X_002-mulu-5
+    span:
+    - body
+    - 2918
+    - 2918
+  label: 自恣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0260_X_002-mulu-6
+    span:
+    - body
+    - 3535
+    - 3535
+  label: 受藥
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0260_X_002-mulu-7
+    span:
+    - body
+    - 3907
+    - 3907
+  label: 分亡僧物
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0260_X_002-mulu-8
+    span:
+    - body
+    - 4951
+    - 4951
+  label: 六聚懺法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0260_X_002-mulu-9
+    span:
+    - body
+    - 4955
+    - 4955
+  label: 懺波羅夷法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0260_X_002-mulu-10
+    span:
+    - body
+    - 5201
+    - 5201
+  label: 懺僧伽婆尸沙法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0260_X_002-mulu-11
+    span:
+    - body
+    - 5385
+    - 5385
+  label: 懺偷蘭遮法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0260_X_002-mulu-12
+    span:
+    - body
+    - 5539
+    - 5539
+  label: 懺波逸提法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0260_X_002-mulu-13
+    span:
+    - body
+    - 7027
+    - 7027
+  label: 懺波羅提提舍尼法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0260_X_002-mulu-14
+    span:
+    - body
+    - 7123
+    - 7123
+  label: 懺突吉羅法
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0260_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 9730
+  label: 律學發軔卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0260_X_003-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 資具
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0260_X_003-mulu-2
+    span:
+    - body
+    - 3246
+    - 3246
+  label: 日用軌則
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0260_X_003-mulu-3
+    span:
+    - body
+    - 5334
+    - 5334
+  label: 受戒辯誤
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0260_X_003-mulu-4
+    span:
+    - body
+    - 6510
+    - 6510
+  label: 律家法數
+  type: mulu
+  level: 1
+hash: sha256:2e7b1220656611ea7ad419249354a35f04aa167e9c1ac61deddc3d53bb7b9045

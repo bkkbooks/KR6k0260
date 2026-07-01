@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6k0260/x/v1/juan/0
+seq: 0
+front:
+  text: 律學發軔序丙戌之冬余作戒本約義終客有以律學揭要請益者余閲之大都目不見律而襲取他書乃水潦鶴之徒所輯也因為作律學發軔以示之言發軔者示慎始也夫萬里之行起於跬步跬步一錯萬里徒勞故初學之士不可不慎若夫誤信非人誤習謬說將有終身而不知其非歷世而傳以為是者其貽害可勝道哉今之所輯姑示諸戒之大端使後學知所向方雖未極其廣大精微之致然即是而求之則所謂廣大精微者固不出此正如出門膏車先端塗轍將無遠之弗屆矣故是書雖眇所關甚大余所以不避委瑣之誚以成之若夫高明之士自當博閲全律何是書之足云時丙戌冬佛成道日永覺老人自題律學發軔目録卷上律部緣起三皈依五戒八關齊優婆塞戒沙彌戒式叉摩那戒比丘戒比丘尼戒菩薩戒卷中結界布薩說欲安居自恣受藥分亡僧物六聚懺法卷下資具日用軌則受戒辨誤律家法數目録終
+  hash: sha256:6f4bb1e7ddd23add347f7e71cf84424bdc76a6092ff62de5250263c62cae300c
+  markers:
+  - {type: 序, offset: 0, content: No. 1125-A 律學發軔序, id: KR6k0260_X_000-mulu-1, level: '1'}
+  - {type: 其他, offset: 243, content: 律學發軔目錄, id: KR6k0260_X_000-mulu-2, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 律學發軔
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X60/X60n1125.xml
+    old_id: X60n1125
+hash: sha256:2b12a487add7dc31e89adc002ecf87aff29ae54d350e0d7a10a113d64d391a09
